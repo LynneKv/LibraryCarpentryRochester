@@ -1,2 +1,2 @@
 # Description
-This is a test repository for Library Carpentry.
+This is a test repository for Library Carpentry Data Workshop.
